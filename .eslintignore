@@ -1,0 +1,8 @@
+**/App.vue
+**/Views/Lista/ListaPagina.vue
+**/Views/Login/LoginPagina.vue
+**/main.js
+**/router/index.js
+**/stores/index.js
+**/Views/Menu/Menu.vue
+**/Views/Cadastro/Cadastro.vue
